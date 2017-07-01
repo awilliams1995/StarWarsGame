@@ -1,0 +1,30 @@
+ #hide{
+  	display: none;
+  	position: absolute;
+  	right: 0px;
+  	top: 0px;
+  	z-index: -45;
+  }
+  #hideDead{
+  	display: none;
+  	position: absolute;
+  	left:auto;
+ 	right:auto;
+ 	top:auto;
+ 	bottom:auto;
+  }
+  #character{
+	clear: both;
+  }
+  img{
+  	height: 20vw;
+  	width: auto;
+  	display: inline-block;
+  }
+  .Yoda,.AnakinSkyWalker,.ObiOne,.DarthVader{
+  	display: none;
+  	padding: 2%;	
+  }
+  #hideDead{
+  	display:none;
+  }
