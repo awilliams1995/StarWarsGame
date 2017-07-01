@@ -159,6 +159,7 @@ yourhp = yourhp - enemyattack;//see comment above^^
 							}
 
 displayyourvalues();
+displayenemyvalues();
 }
 		else if(enemyhp <= 0){
 		$("#hide").hide();
